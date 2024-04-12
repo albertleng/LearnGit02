@@ -52,3 +52,11 @@ recommended to use personal access tokens or SSH keys.
 There are several common Git branching strategies, including feature branching,
 Gitflow, and trunk-based development. Each has its own advantages and is suited
 to different types of projects.
+
+
+
+Thank you and happy learning! 🚀
+### Add smiley icon
+- [x] Add a smiley icon to the end of the README.md file.
+- [x] Do code review
+- [ ] Give encouragement
