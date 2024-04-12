@@ -60,3 +60,4 @@ Thank you and happy learning! 🚀
 - [x] Add a smiley icon to the end of the README.md file.
 - [x] Do code review
 - [ ] Give encouragement
+- [ ] Smile!
