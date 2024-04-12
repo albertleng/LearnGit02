@@ -61,3 +61,4 @@ Thank you and happy learning! 🚀
 - [x] Do code review
 - [ ] Give encouragement
 - [ ] Smile!
+- [ ] Drink plenty of water
